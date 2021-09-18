@@ -1,0 +1,16 @@
+.categories_item {
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-right: 5px;
+    background-color: rgb(164, 166, 167);
+}
+
+.card_link {
+    text-decoration: none;
+    color: black;
+}
+
+.categories_card {
+    margin-top: 20px;
+}
